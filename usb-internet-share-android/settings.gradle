@@ -1,0 +1,2 @@
+rootProject.name = "usb-internet-share-android"
+include(":app")
